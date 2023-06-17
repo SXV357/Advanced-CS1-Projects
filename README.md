@@ -1,5 +1,5 @@
 # Advanced-CS1-Projects
-This repository is a collection of the major projects completed in my Advanced CS1 class during the academic year.
+This repository is a collection of the major projects completed in my Advanced Computer Science 1 course during the 2021-22 academic year.
 
 1) OOP - Bank, Bicycle Tester, DuckPond, FishTank, HorseDerby, Robot
 2) Creating Methods - Calculator, DayOfWeek
